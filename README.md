@@ -259,3 +259,6 @@ This repository serves as the official landing page for Thunderbird. The softwar
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Thunderbird today!**
+
+---
+**Last updated:** 2026-09-11 07:10:22 UTC
