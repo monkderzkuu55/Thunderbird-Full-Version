@@ -261,4 +261,4 @@ This repository serves as the official landing page for Thunderbird. The softwar
 **Get the most recent version of Thunderbird today!**
 
 ---
-**Last updated:** 2026-09-20 15:48:18 UTC
+**Last updated:** 2026-09-20 18:36:04 UTC
